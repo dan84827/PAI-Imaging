@@ -1,0 +1,2 @@
+radius = 25 pixels = .5 mm
+offset = 50 pixels = 1 mm

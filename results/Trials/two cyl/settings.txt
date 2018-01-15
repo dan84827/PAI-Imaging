@@ -1,0 +1,2 @@
+center seperation = 80 pixels
+radius = 20 pixels
